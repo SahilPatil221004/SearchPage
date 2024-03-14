@@ -5,12 +5,12 @@ module.exports = {
     extend: {
       colors:{
         blue:'#222831',
-        fblue:'#fefbf6',
+        fblue:'#EEEEEE',
        
+        footer_col : '#CCCCCC ',
         Button : '#76abae'
       }
     },
   },
   plugins: [],
 }
-
