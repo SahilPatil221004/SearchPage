@@ -6,8 +6,8 @@ module.exports = {
       colors:{
         blue:'#222831',
         fblue:'#fefbf6',
-        black:'white'
-        //Button : #76abae
+       
+        Button : '#76abae'
       }
     },
   },
